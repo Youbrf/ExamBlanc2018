@@ -1,0 +1,23 @@
+<Meeting date="2021-05-17" lieu="Lemonnier">
+  <texte>Java - ICC</texte>
+  <Participant>
+    <nom>Timon</nom>
+    <prenom>Pumba</prenom>
+    <statut>normal</statut>
+  </Participant>
+  <Participant>
+    <nom>Tintin</nom>
+    <prenom>Milou</prenom>
+    <statut>vip</statut>
+  </Participant>
+  <Participant>
+    <nom>Tic</nom>
+    <prenom>Tac</prenom>
+    <statut>normal</statut>
+  </Participant>
+  <Participant>
+    <nom>Tomy</nom>
+    <prenom>Jerry</prenom>
+    <statut>vip</statut>
+  </Participant>
+</Meeting>
